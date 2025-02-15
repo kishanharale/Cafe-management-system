@@ -2,8 +2,8 @@
 Cafe Management System
 
 A full-stack Cafe Management System developed using Java for the backend and Angular for the frontend. This system allows the management of cafe operations such as managing menu items, orders, customer details, and more.
-Features
 
+**Features**
 Customer Management: Add, update, and view customer details.
 Menu Management: Manage food and drink items, including prices and availability.
 Order Management: Process customer orders and track their status.
