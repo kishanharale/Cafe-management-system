@@ -1,0 +1,11 @@
+# Angular build files
+dist/
+node_modules/
+.tmp/
+
+# Environment files (API keys, secrets)
+src/environments/environment*.ts
+
+# IDE settings
+.idea/
+.vscode/

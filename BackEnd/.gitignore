@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+target/
+out/
+
+# Log files
+*.log
+
+# Ignore .env files (for secrets)
+.env
+
+# IntelliJ / Eclipse / VSCode settings
+.idea/
+*.iml
+*.vscode/
+*.classpath
+*.project
+*.settings/
+
+# Maven dependencies
+.m2/
+
+# Gradle files
+.gradle/
+build/
+
+# Ignore JAR/WAR files
+*.jar
+*.war
